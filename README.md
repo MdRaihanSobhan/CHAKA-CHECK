@@ -2,8 +2,8 @@
 Business Model | HUM 481 - Entrepreneurship for IT Business 
 
 ## Group Members
-1905066 - Abir Muhtasim
-1905095 - Md Raihan Sobhan (Me) 
+1905066 - Abir Muhtasim <br> 
+1905095 - Md Raihan Sobhan (Me) <br> 
 1905115 - Tahsin Wahid 
 
 ## What is Chaka Check
